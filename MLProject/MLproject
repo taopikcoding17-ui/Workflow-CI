@@ -1,0 +1,5 @@
+name: rf_iris_ci
+
+entry_points:
+  main:
+    command: "python modelling.py"
